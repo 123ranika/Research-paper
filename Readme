@@ -1,7 +1,1 @@
-echo "# Research-paper" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M default
-git remote add origin https://github.com/123ranika/Research-paper.git
-git push -u origin default
+
